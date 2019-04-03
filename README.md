@@ -4,10 +4,10 @@
 
 Try out git and all that
 
-Try **bold**, try_italic_, try `code block`
+Try **bold**, try _italic_, try `code block`
 
-##NOtes on unhappy gitting
+##Notes on unhappy gitting
 
-*unordered list 
+* unordered list 
 - another unordered
 - and even more 
