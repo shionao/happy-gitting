@@ -1,6 +1,8 @@
 # happy-gitting
 
-## How to use this 
+## How to use this
+
+###All gitters should be happy
 
 Try out git and all that
 
