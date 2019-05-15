@@ -1,5 +1,7 @@
 # happy-gitting
 
+edited texts for master
+
 ## All gitters should be **happy!**
 
 ... and play some soccer!
@@ -16,7 +18,7 @@
 ## And here comes the old version of the readme
 
 ```
-# happy-gitting
+# unhappy-gitting
 
 ## How to use this
 
